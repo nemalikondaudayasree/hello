@@ -1,0 +1,8 @@
+node {
+stage{
+     echo "123"
+     }
+stage{
+      echo "456"
+     }
+     }
